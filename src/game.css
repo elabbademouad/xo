@@ -1,0 +1,15 @@
+
+.cell {
+    width: 100px;
+    height: 100px;
+    background: grey;
+    border: 5px black solid;
+}
+
+.cell-x {
+    background: red;
+}
+
+.cell-o {
+    background: blue;
+}
